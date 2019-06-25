@@ -2,7 +2,7 @@
 \.Rhistory
 *\.Rproj
 \.Rproj\.user
-.Rproj.user
+\.RData
 
 # data files
 *\.csv
