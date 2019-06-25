@@ -6,7 +6,7 @@ Authors@R: c(person("Raoul", "Wadhwa", email = "raoulwadhwa@gmail.com", role = c
     person("Neil", "Mehta", role = "aut"),
     person("Bruce", "Spevak", role = "aut"),
     person("Sneha", "Sharma", role = "aut"))
-Description: Allows collection and comparison of academic profiles using the
+Description: Allows collection of academic profiles using the
     Google Scholar database. Additionally creates concise, standard reports
     to more easily digest academic profiles.
 License: GPL-3
