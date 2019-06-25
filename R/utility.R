@@ -20,3 +20,8 @@ read_scholars <- function(file_name) {
                     ID = col_character()
                   ))
 }
+
+## if empty, replace with NA, otherwise return parameter unchanged
+eval_metric <- function(metric) {
+  ifelse(length(metric) == 0, NA, metric)
+}
