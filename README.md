@@ -1,4 +1,6 @@
-# academia
+## academia: an R package to track academic output
+
+Raoul R. Wadhwa, Neil B. Mehta
 
 The goal of academia is to ...
 
